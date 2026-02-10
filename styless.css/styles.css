@@ -50,3 +50,13 @@ nav a {
     font-size: 20px;
     color: #474747;
 }
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 46px 38px 0 230px;
+}
+.text-area{
+    max-width: 585px;
+
+}
